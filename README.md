@@ -1,6 +1,6 @@
 # scramble-query
 ## Problem
-on the phase 2 of a project X, we needed to make the nessary development so dummy data should be available and we it is impossible to take a backup from the production data due to condiential problem
+on the phase 2 of a project X, we needed to make the nessary development so dummy data should be available , it was impossible to take a backup from the production data due to condiential problem
 
 ## Solution
 1- make a query that scrumble all the database table by table and it scrumble each record based on random key
